@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Experiment 10</string>
+    <string name="title">Membership Form</string>
+    <string name="name">Name</string>
+    <string name="phone">Mobile Number</string>
+    <string name="address">Address</string>
+    <string name="conditions">Do you agree to the terms and conditions?</string>
+    <string name="dialog_message">Form Submitted Successfully</string>
+    <string name="dialog_title">Form Submission</string>
+</resources>
